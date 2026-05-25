@@ -1,5 +1,5 @@
 # Heart-disease-prediction
-Heat Disease Prediction using the different ML models
+Heat Disease Prediction using the different ML models\n
 This was a simple project to test my basic ML foundations 
 
 # Data Cleaning
