@@ -1,5 +1,6 @@
 # Heart-disease-prediction
 Heat Disease Prediction using the different ML models
+This was a simple project to test my basic ML foundations 
 
 # Data Cleaning
 The first thing that i did was download the heart.csv dataset from kaggle then i loaded that dataset into VS code then used some basic Data cleaning methods like removing outliers and removing data which cannot exist realistically and some other methods
@@ -11,7 +12,6 @@ After Data cleaning was done, it was time to actually train the ML algos on that
 Once the main model was selected the frontend was connected with the backend and the project was completed.
 
 
-This was a simple project to test my basic ML foundations 
 
 
 
